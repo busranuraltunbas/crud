@@ -1,4 +1,5 @@
 const {Router} = require("express")
+
 const PostController = require("./PostController")
 const router = Router()
 
